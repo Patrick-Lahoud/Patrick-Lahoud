@@ -1,6 +1,6 @@
-<h1 align="center">Welcome to My Portfolio</h1>
+<h1 align="center">Patrick Lahoud's Portfolio</h1>
 
-<p align="center"><i>Interactive developer & digital craftsman. Exploring full-stack apps, hardware simulators, and games.</i></p>
+<p align="center"><i>highschool full-stack dev</i></p>
 
 <div align="center">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -99,7 +99,9 @@
 <a href="https://github.com/Patrick-Lahoud/NummiRacing"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </td>
 <td width="33%" align="center" valign="top">
-<img width="900" height="600" alt="Avega" src="https://github.com/user-attachments/assets/ebc8e3d7-47c8-419e-9a0e-6ac9f6121162" />
+
+
+<img width="900" height="600" alt="the Media Problem (8)" src="https://github.com/user-attachments/assets/197537f1-384e-4937-a0df-b70c0de50fad" />
 <h3>Avega</h3>
 <img src="https://img.shields.io/badge/Coming_Soon-555555?style=flat-square" alt="Coming Soon"/>
 </td>
