@@ -1,64 +1,133 @@
-<h1 align="center">Welcome to My Workbench</h1>
-<p align="center"><i>Building full-stack apps, hardware prototypes, and games.</i></p>
+<h1 align="center">Welcome to My Portfolio</h1>
 
-<h3 align="left">🌐 My Websites</h3>
-<table width="100%" border="0" align="center">
-  <tr>
-    <td width="33%" align="center">
-      <a href="#"><img src="https://via.placeholder.com/250x150?text=Greenplan+Demo" width="100%" alt="Greenplan"/></a>
-      <br /><b>Greenplan</b>
-      <br />AI Garden Layout & Care
-    </td>
-    <td width="33%" align="center">
-      <a href="#"><img src="https://via.placeholder.com/250x150?text=HeatIQ" width="100%" alt="HeatIQ"/></a>
-      <br /><b>HeatIQ</b>
-      <br />Climate Risk & Shade Navigation
-    </td>
-    <td width="33%" align="center">
-      <a href="#"><img src="https://via.placeholder.com/250x150?text=Bin+Bonnet" width="100%" alt="Bin Bonnet Store"/></a>
-      <br /><b>Bin Bonnet</b>
-      <br />E-Commerce & Retail Distribution
-    </td>
-  </tr>
-</table>
-<hr style="border: 2px solid #555; border-radius: 5px;" />
+<p align="center"><i>Interactive developer & digital craftsman. Exploring full-stack apps, hardware simulators, and games.</i></p>
 
-<h3 align="left">🏆 My Hackathons</h3>
-<!-- Using a 2-column table here so the two awards fill the whole row -->
-<table width="100%" border="0" align="center">
-  <tr>
-    <td width="50%" align="center">
-      <a href="#"><img src="https://via.placeholder.com/350x150?text=VentureEngine" width="90%" alt="VentureEngine"/></a>
-      <br /><b>VentureEngine</b>
-      <br />Hackonomics 2027 Command Center
-    </td>
-    <td width="50%" align="center">
-      <a href="#"><img src="https://via.placeholder.com/350x150?text=Pixel+Forge+AI" width="90%" alt="Pixel Forge AI"/></a>
-      <br /><b>Pixel Forge AI</b>
-      <br />Functional AI Application
-    </td>
-  </tr>
-</table>
-<hr style="border: 2px solid #555; border-radius: 5px;" />
+<div align="center">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+</div>
 
-<h3 align="left">🎮 My Games & ⚙️ Projects</h3>
+<br /><br />
+
+<h1 align="center">Featured Showcase</h1>
+<br />
 <table width="100%" border="0" align="center">
-  <tr>
-    <td width="33%" align="center">
-      <a href="#"><img src="https://via.placeholder.com/250x150?text=Boundless+Blade" width="100%" alt="Boundless Blade"/></a>
-      <br /><b>Boundless Blade</b>
-      <br />2D Space Platformer (Vite/Netlify)
-    </td>
-    <td width="33%" align="center">
-      <a href="#"><img src="https://via.placeholder.com/250x150?text=Arduino+Simulation" width="100%" alt="Arduino Pelican Crosswalk"/></a>
-      <br /><b>Arduino Pelican Crosswalk</b>
-      <br />C++ Circuit Simulation
-    </td>
-    <td width="33%" align="center">
-      <a href="#"><img src="https://via.placeholder.com/250x150?text=RPi+Projects" width="100%" alt="Raspberry Pi Edge Tools"/></a>
-      <br /><b>Edge Computing</b>
-      <br />Raspberry Pi Hardware & Scripts
-    </td>
-  </tr>
+<tr>
+<td width="40%" align="center" valign="middle">
+<a href="https://trance.surge.sh/">
+<img width="900" height="600" alt="the Media Problem (4)" src="https://github.com/user-attachments/assets/6708e59f-25b3-4595-8e69-8ba6a72e2b5f" />
+</a>
+</td>
+<td width="60%" align="left" valign="middle">
+<h2>Trance</h2>
+<img src="https://img.shields.io/github/downloads/Patrick-Lahoud/trance/total?style=flat-square&labelColor=0a0a0a&color=4A9EFF" alt="Downloads"/> 
+<img src="https://img.shields.io/github/v/release/Patrick-Lahoud/trance?style=flat-square&labelColor=0a0a0a&color=888888" alt="Release"/> 
+<img src="https://img.shields.io/github/license/Patrick-Lahoud/trance?style=flat-square&labelColor=0a0a0a&color=888888" alt="License"/> 
+<img src="https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-0a0a0a?style=flat-square" alt="Platform"/>
+<br /><br />
+<p>Trance is an open-source desktop focus companion built for Windows using Electron, React, and TypeScript. It utilizes OS-level idle timers to provide activity-aware attention feedback.</p>
+<br />
+<a href="https://trance.surge.sh/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_SITE-3B82F6?style=for-the-badge" alt="Prod Link"/></a>
+<a href="https://github.com/Patrick-Lahoud/trance"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</td>
+</tr>
 </table>
-<hr style="border: 2px solid #555; border-radius: 5px;" />
+
+<br /><br />
+
+<h1 align="center">Awards and Recognitions</h1>
+<br />
+<table width="100%" border="0" align="center">
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://greenplandemo.netlify.app/">
+<img width="85%" alt="the Media Problem (1)" src="https://github.com/user-attachments/assets/21118a1d-be2b-4555-b25d-f59e5f53a83d" />
+</a>
+<br/><br/>
+<img src="https://img.shields.io/badge/🥇_Award-1st_Place_--_Agriculture-gold?style=for-the-badge" alt="First Place Agriculture Badge"/>
+<br/>
+<b>NEXORA Global Hackathon</b>
+<br /><br />
+<p align="left">Greenplan helps you design your garden bed with AI plant spacing and companion suggestions; while also tracking your crops with watering reminders, custom care guides, and a garden-aware AI assistant.</p>
+<br />
+<a href="https://greenplandemo.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-0078D4?style=for-the-badge&logo=web&logoColor=white" alt="Demo"/></a>
+<a href="https://devpost.com/software/greenplan"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"/></a>
+<a href="https://github.com/Patrick-Lahoud/Greenplan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://the-media-problem.onrender.com/">
+<img width="85%" alt="The Media Problem" src="https://github.com/user-attachments/assets/f51861f3-302b-447e-9f93-3398095923f8" />
+</a>
+<br/><br/>
+<img src="https://img.shields.io/badge/🏅_Award-Best_Beginner_Project-blueviolet?style=for-the-badge" alt="Best Beginner Project Badge"/>
+<br/>
+<b>TechCommons Hacks V1</b>
+<br /><br />
+<p align="left">An AI detector that identifies, reports and explains any bias or hidden narratives baked into the news and headlines around you; while also teaching you how to catch it yourself!</p>
+<br />
+<a href="https://the-media-problem.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-0078D4?style=for-the-badge" alt="Demo"/></a>
+<a href="https://devpost.com/software/the-media-problem"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"/></a>
+<a href="https://github.com/Patrick-Lahoud/The-Media-Problem"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</td>
+</tr>
+</table>
+
+<br /><br />
+
+<h1 align="center">Website Portfolio</h1>
+<br />
+<table width="100%" border="0" align="center">
+<tr>
+<td width="33%" align="center" valign="top">
+<a href="https://binbonnet.com">
+<img width="900" height="600" alt="the Media Problem (5)" src="https://github.com/user-attachments/assets/c539623b-b73a-4e26-8fed-8c8a85bbb35d" />
+</a>
+<h3>Bin Bonnet</h3>
+<a href="https://binbonnet.com"><img src="https://img.shields.io/badge/Visit_Site-2EA043?style=flat-square&logo=google-chrome&logoColor=white" alt="Visit Site"/></a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://github.com/Patrick-Lahoud/NummiRacing">
+<img width="900" height="600" alt="the Media Problem (6)" src="https://github.com/user-attachments/assets/ca7729ec-deab-422a-9e19-09eac7775591" />
+</a>
+<h3>Nummi Racing</h3>
+<a href="https://github.com/Patrick-Lahoud/NummiRacing"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+</td>
+<td width="33%" align="center" valign="top">
+<img width="900" height="600" alt="the Media Problem (7)" src="https://github.com/user-attachments/assets/ebc8e3d7-47c8-419e-9a0e-6ac9f6121162" />
+<h3>Avega</h3>
+<img src="https://img.shields.io/badge/Coming_Soon-555555?style=flat-square" alt="Coming Soon"/>
+</td>
+</tr>
+</table>
+
+<br /><br />
+
+<h1 align="center">Games</h1>
+<br />
+<table width="100%" border="0" align="center">
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://pl09.itch.io/sequenced">
+<img width="900" height="600" alt="the Media Problem (3)" src="https://github.com/user-attachments/assets/eb299eff-39a2-4eb8-9c1c-8d6942157701" />
+</a>
+<h3>Sequenced (Puzzle)</h3>
+<p align="left">Step into the glowing digital world of Sequenced, a strategic memory and logic challenge where every number matters. Test your focus as you build sequences, recall patterns, and push your mind to its limits across increasingly difficult levels.</p>
+<br />
+<a href="https://pl09.itch.io/sequenced"><img src="https://img.shields.io/badge/PLAY_ON_ITCH.IO-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Play Now"/></a>
+<a href="https://github.com/Patrick-Lahoud/Sequenced"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/Patrick-Lahoud/Nexus-12">
+<img width="900" height="600" alt="the Media Problem (1)" src="https://github.com/user-attachments/assets/9a845798-c0f3-4072-98fc-115c6be23e01" />
+</a>
+<h3>Nexus-12 (Arcade Roguelike)</h3>
+<p align="left">A chaotic arcade roguelike where your lethal bouncing ball evolves through rooms of unique enemies. Upgrades, abilities, and frictionless destruction.</p>
+<br />
+<img src="https://img.shields.io/badge/PLAYABLE_COMING_SOON-F59E0B?style=for-the-badge" alt="Coming Soon"/>
+<a href="https://github.com/Patrick-Lahoud/Nexus-12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</td>
+</tr>
+</table>
