@@ -1,6 +1,6 @@
 <h1 align="center"><code>Patrick Lahoud's Portfolio</code></h1>
 
-<p align="center"><code>Highschool Full-Stack Dev</code></p>
+<p align="center"><code> </code></p>
 
 <div align="center">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
